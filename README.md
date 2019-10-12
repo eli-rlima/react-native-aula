@@ -46,7 +46,7 @@ No Overview do projeto, registre um app android, serão pedidos os campos:
 
  - Faça o download do arquivo google-services.json e coloque na pasta android/app).
  - Instale o pacote react-native-firebase com o comando yarn add react-native-firebase.
- - Faça o link do pacote com o código nativo do app com o comando react-native link react-native-firebase
+ - Faça o link do pacote com o código nativo do app com o comando ```react-native link react-native-firebase```
 
  - Entre na pasta android e no arquivo build.gradle adicione as dependências abaixo:
 
