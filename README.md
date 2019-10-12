@@ -78,3 +78,5 @@ No Overview do projeto, registre um app android, serão pedidos os campos:
    apply plugin: "com.google.gms.google-services"
 ```
 Após estes passos seu app estará com a SDK do Firebase configurada.
+
+Para finalizar a instalação da SDK abra duas janelas do terminal, em uma rode o comando ```npm start -- --reset-cache``` e na outra rode o aplicativo com o comando ```react-native run-android```.
