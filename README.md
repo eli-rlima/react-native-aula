@@ -26,4 +26,4 @@ Yarn: https://yarnpkg.com/en/
 Após a instalação e a configuração do seu ambiente de simulação. 
 
  - Crie uma pasta e abra ela no terminal
- - rode o comando ```react-native init 'nome do projeto'```
+ - rode o comando ```react-native init 'nomeDoProjeto'```
