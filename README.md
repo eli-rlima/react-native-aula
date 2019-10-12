@@ -38,7 +38,7 @@ Após a instalação e a configuração do seu ambiente de simulação.
   - Crie um Projeto
 
 No Overview do projeto, registre um app android, serão pedidos os campos:
- - Nome do pacote do Android (Você encontra no arquivo AndroidManifest.xml na pasta ```android/main/``` do seu projeto).
+ - Nome do pacote do Android (Você encontra no arquivo ```AndroidManifest.xml``` na pasta ```android/main/``` do seu projeto).
  - Nome do App
  - Certificado de assinatura de depuração SHA-1 (Você encontra como conseguir neste link: https://developers.google.com/android/guides/client-auth).
 
