@@ -48,7 +48,7 @@ No Overview do projeto, registre um app android, serão pedidos os campos:
  - Instale o pacote react-native-firebase com o comando yarn add react-native-firebase.
  - Faça o link do pacote com o código nativo do app com o comando ```react-native link react-native-firebase```
 
- - Entre na pasta android e no arquivo build.gradle adicione as dependências abaixo:
+ - Entre na pasta ```android``` e no arquivo ```build.gradle``` adicione as dependências abaixo:
 
  ```js
     buildscript {
@@ -67,7 +67,7 @@ No Overview do projeto, registre um app android, serão pedidos os campos:
         }
     }
 ```
- - Entre na pasta android/app e abra o arquivo build.gradle e adicione as dependências abaixo:
+ - Entre na pasta ```android/app``` e abra o arquivo ```build.gradle``` e adicione as dependências abaixo:
 
  ```js
     
